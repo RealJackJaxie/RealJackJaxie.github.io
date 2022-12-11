@@ -4,7 +4,7 @@ This is my home page! My name is Jackie Gong and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/RealJackJaxie.
+My GitHub page is [http://github.com/RealJackJaxie](http://github.com/RealJackJaxie).
 
 ### CPSC 120
 
@@ -19,3 +19,5 @@ My GitHub page is http://github.com/RealJackJaxie.
 * Lab 10
 
     Lab 10, part 3, was one of my favorites because it was the first one that actually created an image with interesting effects. In high school we could make visuals in Python, but we never did anything like the image in this lab. It was also interesting by the way we made images, it was another boiler plate and new header, whereas Python just has everything built into it already. 
+
+![The gradient image from Lab 10](images/images.png)
